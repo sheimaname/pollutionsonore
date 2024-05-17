@@ -25,7 +25,7 @@ Latitude;Longitude;Type de Pollution;Niveau de Pollution (dB);Nom de la Ville;Pa
 5.560014;-0.205744;Bruit urbain;70;Accra;Ghana;;;;;
 9.641185;-13.578401;Bruit industriel;82;Conakry;GuinŽe;;;;;
 3.75;8.783;Bruit de transport;67;Malabo;GuinŽe Žquatoriale;;;;;
-11.8636;Ê-15.5977;Bruit urbain;80;Bissau;GuinŽe-Bissau;;;;;
+11.8636;-15.59767;Bruit urbain;80;Bissau;GuinŽe-Bissau;;;;;
 -1.28333;36.81667;Bruit urbain;65;Nairobi;Kenya;;;;;
 -29.3;27.5;Bruit industriel;70;Maseru;Lesotho;;;;;
 6.3005400;-10.7969000;Bruit industriel;70;Monrovia;Liberia;;;;;
